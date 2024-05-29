@@ -1,0 +1,44 @@
+.div3{
+    background-color: white;
+    height: 200px;
+    width: 450px;
+    margin-left: 800px;
+    margin-right: 50px;
+    position:relative;
+    text-decoration: aliceblue;
+   
+    text-align: center;
+    
+}
+.div1{
+    margin-top: 5px;
+   
+    width:690px;
+    position: absolute;
+}
+
+.div4{
+    
+    height: 900px;
+    width: 400px;
+    
+    
+   
+}
+.vline {
+    border-left: 2px solid brown;
+    height: 1070px;
+    position: absolute;
+    left: 50%;
+    margin-left: -170px;
+    top: 3;
+    margin-top:213px;
+  }
+
+  .mydiv{
+    margin-right: 0px;
+    
+    height:600px;
+    width: 600px;
+    margin-left: 100px ;
+  }
